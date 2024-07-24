@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lolzless as known as Ardi Ferdinan
+- 👋 Hi, I’m Ardi Ferdinan
 - 👀 I’m interested in Flutter Development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter, React Native
 - 📫 How to reach me just email me on ardiferdinan25@gmail.com
 
 <!---
